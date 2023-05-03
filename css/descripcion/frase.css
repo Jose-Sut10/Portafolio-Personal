@@ -8,3 +8,10 @@
 .resaltado{
     color: #660066;
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .frase{
+        text-align: end;
+    }
+}

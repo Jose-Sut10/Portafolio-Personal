@@ -18,3 +18,11 @@
     border: 4px dashed #20bcd5;
     padding: 0 .8rem;
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .informacion__personal{
+        display: flex;
+        justify-content: space-between;
+    }
+}
