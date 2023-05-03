@@ -4,5 +4,14 @@
 
 .encabezado__navegacion--principal{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+/*Diseño para desktop*/
+@media screen and (min-width: 1024px){
+    .encabezado__contenedor--navegacion{
+        display: flex;
+        justify-content: space-evenly;
+    }    
+
 }
