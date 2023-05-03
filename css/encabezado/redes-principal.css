@@ -1,0 +1,18 @@
+.navegacion--redes{
+    display: flex;
+    justify-content: center;
+}
+
+.descarga{
+    font-size: 1.7rem;
+    font-family: var(--letra-contenidos);
+    color: var(--color-blanco);
+    text-decoration: none;
+}
+
+/* Diseño para moviles */
+@media screen and (max-width: 767px){
+    .encabezado__contenedor--redes{
+        margin-top: 8px;
+    }
+}

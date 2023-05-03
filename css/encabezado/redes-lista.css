@@ -1,0 +1,17 @@
+.redes__lista{
+    display: flex;
+    align-items: center;
+}
+
+.redes__items{
+    padding: .6rem;
+}
+
+/* Diseño para moviles */
+@media screen and (max-width: 767px){
+    .redes__lista{
+        width: 80vw;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
