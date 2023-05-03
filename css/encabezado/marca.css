@@ -1,0 +1,16 @@
+.contenido__logoYnombre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 5rem;   
+}
+
+.encabezado__nombre{
+    color: var(--color-blanco);
+    font-family: var(--titulo-principal);
+    font-size: 2.4rem;
+    padding: 0 1.5rem;
+}
