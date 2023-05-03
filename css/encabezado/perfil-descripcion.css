@@ -1,0 +1,39 @@
+.tituloPrincipal{
+    line-height: 1.25;
+}
+
+.descripcion__profesional{
+    padding: 2rem;
+}
+
+.perfil__descripcion{
+    font-size: 2rem;
+    color: var(--color-blanco);
+    font-family: var(--letra-titulos);
+}
+
+.perfil__descripcion--nombre{
+    font-size: 3rem;
+    font-family: var(--titulo-principal);
+    color: var(--color-purpura);
+}
+
+.perfil__descripcion--profesion{
+    font-size: 2.3rem;
+    color: var(--color-blanco);
+    font-family: var(--letra-titulos);
+    
+}            
+
+/* Diseño para moviles */
+@media screen and (max-width: 767px){
+    .tituloPrincipal{
+        text-align: center;
+    }
+    .descripcion__profesional{
+        padding: 2rem 0 1rem 0;
+    }
+    .perfil__descripcion--profesion{
+        font-size: 2rem;
+    }
+}
