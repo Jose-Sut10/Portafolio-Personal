@@ -1,0 +1,8 @@
+.encabezado__navegacion--contenido{
+    padding-top: 20px;
+}
+
+.encabezado__navegacion--principal{
+    display: flex;
+    justify-content: space-evenly;
+}

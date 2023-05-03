@@ -1,0 +1,10 @@
+.encabezado__navegacion--items{
+    font-size: 1.6rem;
+    color: var(--color-blanco);
+    font-family: var(--letra-contenidos);
+}
+
+.encabezado__navegacion--links{
+    color: var(--color-blanco);
+    text-decoration: none;
+}
