@@ -23,3 +23,15 @@
         justify-content: space-between;
     }
 }
+
+/*Diseño para moviles*/
+@media screen and (max-width: 767px){
+    .encabezado__navegacion--contenido{
+        padding-top: 10px;
+    }
+
+    .encabezado__navegacion--principal{
+        display: block;
+        text-align: center;
+    }
+}
