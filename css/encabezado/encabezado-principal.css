@@ -1,0 +1,29 @@
+:root{
+    --color-negro: #1c1c1c;
+    --color-blanco: #FFFFFF; 
+    --color-purpura: #A524E2; 
+    --color-purpuraPalido: #D071D1;
+    --color-grisPalido: #9B9B9B; 
+    --titulo-principal: 'Satisfy',sans-serif;
+    --letra-titulos: 'Alkatra', sans-serif;
+    --letra-contenidos: 'Handlee', sans-serif;  
+    --background-ceniza-claro: #F7F4F4;
+    --background-azul-claro: #DFE3F5;
+    --color-botones: #2A7AE4; 
+    --color-rojo: #FF0000;
+}
+
+/*Animación de desplazamiento*/
+html{
+    scroll-behavior: smooth;
+}
+
+.encabezado {
+    background: var(--color-negro);
+    padding: 20px 0;
+}
+
+.encabezado__contenedor{
+    width: 95vw;
+	margin: 0 auto;
+}
