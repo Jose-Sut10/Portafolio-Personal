@@ -11,7 +11,15 @@
 @media screen and (min-width: 1024px){
     .encabezado__contenedor--navegacion{
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-between;
     }    
-
+    .encabezado__navegacion--contenido{
+        padding: 0;
+        display: flex;
+        align-items: center;
+        width: 60%;
+    }
+    .encabezado__navegacion--principal{
+        justify-content: space-between;
+    }
 }

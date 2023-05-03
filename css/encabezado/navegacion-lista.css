@@ -8,3 +8,10 @@
     color: var(--color-blanco);
     text-decoration: none;
 }
+
+/*Diseño para desktop*/
+@media screen and (min-width: 1024px){
+    .encabezado__navegacion--lista{
+        width: 100%;
+    }
+}
