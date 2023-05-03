@@ -23,3 +23,11 @@
         justify-content: center;
     }
 }
+
+/*Diseño para desktop*/
+@media screen and (min-width: 1024px){
+    .perfil__foto{
+        width: 13rem;
+        height: 13rem;
+    }
+}
