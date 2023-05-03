@@ -1,0 +1,10 @@
+.frase{
+    text-align: center;
+    padding-top: 1rem;
+    font-family: var(--letra-titulos);
+    font-size: 1.8rem;
+}
+
+.resaltado{
+    color: #660066;
+}
