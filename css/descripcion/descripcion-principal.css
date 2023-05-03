@@ -1,0 +1,20 @@
+.informacion__general{
+    padding: 20px 0;
+}
+
+.informacion__general--contenedor{
+    width: 92vw;
+    margin: 0 auto;
+}
+
+.informacion__personal--titulo{
+    text-align: center;
+    font-family: var(--letra-titulos);
+    font-size: 2rem;
+    padding: .8rem;
+}
+
+.titulo{
+    border: 4px dashed #20bcd5;
+    padding: 0 .8rem;
+}
