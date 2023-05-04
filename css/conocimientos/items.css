@@ -10,8 +10,8 @@
 }
 
 .conocimientos__lista--items{
-    width: 125px;
-    margin: 0 1.5rem 1.5rem 0; 
+    width: 125px; 
+    margin: 0 1.5rem 1.5rem 0;
     padding: 20px;
     border: 2px solid var(--color-negro);
     border-radius: 15px;
