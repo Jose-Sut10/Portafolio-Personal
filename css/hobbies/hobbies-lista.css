@@ -1,0 +1,21 @@
+.lista--hobbies{
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.hobbies__lista--items{
+    margin: 0 1.2rem 1.4rem 1.2rem;
+    width: 180px;
+    padding: 20px;
+    border: 2px solid var(--color-negro);
+    border-radius: 15px;
+}
+
+.hobbies__items--contenido{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

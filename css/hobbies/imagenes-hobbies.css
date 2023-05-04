@@ -1,0 +1,11 @@
+.hobbies__contenedor--imagenes{
+    width: 10rem;
+    height: 10rem;
+}
+
+.hobbies__contenido--descripcion{
+    text-align: center;
+    font-size: 1.7rem;
+    font-family: var(--letra-titulos);
+    margin-top: 0.75rem;
+}
