@@ -1,0 +1,9 @@
+.formacion__lista{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.formacion__lista--items{
+    padding: 2rem 2rem 0 2rem;
+}

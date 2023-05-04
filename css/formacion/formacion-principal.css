@@ -1,0 +1,14 @@
+.formacion{
+    padding: 30px 0;
+    background: #EAF2FD;
+}
+
+.formacion__contenedor{
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.formacion__lista--imagenes{
+    width: 9rem;
+    height: 9rem;
+}
