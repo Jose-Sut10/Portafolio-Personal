@@ -1,0 +1,18 @@
+.conocimientos__contenedor--imagenes{
+    width: 3.5rem;
+    height: 4rem;
+}
+
+.conocimientos__contenido--descripcion{
+    font-size: 1.25rem;
+    font-family: var(--letra-titulos);
+    margin-top: 0.75rem;
+}
+
+.conocimientos__lista--items{
+    width: 125px;
+    margin: 0 1.5rem 1.5rem 0; 
+    padding: 20px;
+    border: 2px solid var(--color-negro);
+    border-radius: 15px;
+}

@@ -1,0 +1,17 @@
+.conocimientos{
+    padding-top: 20px;
+}
+
+.conocimientos__contenedor{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.conocimientos__lista--items:hover{
+    background: var(--color-purpuraPalido);
+    transition: 1000ms;
+}
+
+.conocimientos__lista--items:hover figC{
+    font-size: 1.50rem;
+}

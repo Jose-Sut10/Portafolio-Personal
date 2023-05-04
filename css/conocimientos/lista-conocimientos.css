@@ -1,0 +1,18 @@
+.lista--conocimientos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.lista--conocimientos{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.conocimientos__items--contenido{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
