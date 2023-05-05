@@ -18,3 +18,17 @@
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .imagen__proyecto{
+        width: 28rem;
+        height: 12rem;
+    }
+    .caja__proyectos--titulo{
+        font-size: 2.2rem;
+    }
+    .caja__proyectos--origen{
+        font-size: 1.8rem;
+    }
+}
