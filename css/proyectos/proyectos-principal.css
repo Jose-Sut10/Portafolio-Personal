@@ -27,3 +27,10 @@
         width: 60vw;
     }
 }
+
+/*Diseño para moviles*/
+@media screen and (max-width: 767px){
+    .proyectos__contenedor{
+        width: 80vw;
+    }
+}
