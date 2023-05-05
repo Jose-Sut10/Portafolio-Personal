@@ -1,12 +1,19 @@
+.contacto{
+    padding-top: 20px;
+    background: var(--background-azul-claro);
+}
+
 .contacto__contenedor{
     width: 90vw;
     margin: 0 auto;
+    margin-top: 2rem;
 }
 
 .contacto__contenedor--principal{
     margin-top: 1rem;
-    width: 50%;
-    align-items: center;
+    align-items: center; 
+    display: flex;
+    flex-direction: column;
 }
 
 .contacto__principal--titulo1{
@@ -25,5 +32,5 @@
 
 .contacto__principal--imagen{
     width: 18rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
