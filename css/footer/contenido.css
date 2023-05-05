@@ -1,0 +1,10 @@
+.pie__pagina--logo{
+    width: 5rem;
+    margin: 0 1rem;
+}
+
+.descripcion--derechos{
+    color: var(--color-blanco);
+    font-size: 1.285rem;
+    line-height: 1.25;
+}

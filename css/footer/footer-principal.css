@@ -1,0 +1,20 @@
+.pie__pagina{
+    background: var(--color-negro);
+    padding: 20px 0;
+}
+
+.pie__pagina--contenedor{
+    width: 95vw;
+    margin: 0 auto;
+}
+
+.pie__pagina--derechos{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.pie__pagina--contenedor{
+    display: flex;
+    justify-content: space-around;
+}
