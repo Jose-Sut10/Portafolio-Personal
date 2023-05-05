@@ -38,7 +38,9 @@
 /*Diseño desktop*/
 @media screen and (min-width: 1024px){
     .contacto__contenedor--informacion{
+        margin-top: 10px;
         display: flex;
+        justify-content: space-between;
     }
     .contacto__contenedor--principal{
         width: 50%;
