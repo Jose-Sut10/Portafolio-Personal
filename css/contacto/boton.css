@@ -1,0 +1,22 @@
+.enviar{
+    margin-top: 1rem;
+    width: 60%;
+    padding: 15px 0;
+    font-size: 1.19rem;
+    font-weight: bold;
+    border: none;
+    background: orange;
+    border-radius: 10px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.caja__boton{
+    display: flex;
+    justify-content: center;
+}
+
+.enviar:hover{
+    background: darkorange;
+    transform: scale(1.1);
+}

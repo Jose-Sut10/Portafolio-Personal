@@ -1,0 +1,34 @@
+.nota__informacion--metodos{
+    padding-top: 1rem;
+}
+
+.informacion__metodos--contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.redes--logos{
+    width: 4rem;
+}
+
+.espacios--redes{
+    margin-right: 2rem;
+}
+
+.contacto__contenedor--nota{
+    padding: 20px 0;
+}
+
+.informacion--importante{
+    color: var(--color-rojo);
+    font-size: 1.85rem;
+    font-weight: bold;
+    font-family: var(--letra-titulos);
+}
+
+.contenedor__nota--informacion{
+    margin-top: 0.5rem;
+    font-size: 1.6rem;
+    font-family: var(--letra-contenidos);
+    font-weight: 100;
+}

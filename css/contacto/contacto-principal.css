@@ -1,0 +1,29 @@
+.contacto__contenedor{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.contacto__contenedor--principal{
+    margin-top: 1rem;
+    width: 50%;
+    align-items: center;
+}
+
+.contacto__principal--titulo1{
+    font-size: 2rem;
+    font-family: var(--letra-titulos);
+    margin-bottom: 1rem;
+    color: #690F8E;
+}
+
+.contacto__principal--descripcion{
+    font-size: 1.5rem;
+    font-family: var(--letra-contenidos);
+    text-align: justify;
+    line-height: 1.15;
+}
+
+.contacto__principal--imagen{
+    width: 18rem;
+    margin-top: 2rem;
+}
