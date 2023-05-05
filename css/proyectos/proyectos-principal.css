@@ -1,0 +1,21 @@
+.proyectos{
+    padding: 35px 0 25px 0;
+}
+
+.proyectos__contenedor{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.caja__proyectos{
+    margin-top: 2rem;
+}
+
+.descripcion--responsiva{
+    display: none;
+}
+
+.disenio{
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,20 @@
+.descripcion--proyecto{
+    padding-top: 2rem;
+}
+
+.imagen__proyecto{
+    width: 18rem; 
+    height: 10rem;
+}
+
+.caja__proyectos--titulo{
+    font-family: var(--letra-titulos);
+    font-size: 2rem;
+    margin-bottom: .3rem;
+}
+
+.caja__proyectos--origen{
+    font-family: var(--letra-titulos);
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+}
