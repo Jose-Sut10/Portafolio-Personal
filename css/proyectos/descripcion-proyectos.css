@@ -1,20 +1,20 @@
 .descripcion--proyecto{
-    padding-top: 2rem;
+    text-align: center;
 }
 
 .imagen__proyecto{
-    width: 18rem; 
-    height: 10rem;
+    width: 20rem; 
+    height: 11rem;
 }
 
 .caja__proyectos--titulo{
     font-family: var(--letra-titulos);
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: .3rem;
 }
 
 .caja__proyectos--origen{
     font-family: var(--letra-titulos);
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     margin-bottom: 1rem;
 }
