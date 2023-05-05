@@ -19,11 +19,15 @@
     margin-bottom: 1rem;
 }
 
+.caja2{
+    display: none;
+}
+
 /*Diseño desktop*/
 @media screen and (min-width: 1024px){
     .imagen__proyecto{
         width: 28rem;
-        height: 12rem;
+        height: 13rem;
     }
     .caja__proyectos--titulo{
         font-size: 2.2rem;
@@ -45,5 +49,11 @@
     }
     .caja__proyectos--titulo{
         display: none;
+    }
+    .desktop{
+        display: none;
+    }
+    .caja2{
+        display: flex;
     }
 }
