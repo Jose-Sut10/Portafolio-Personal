@@ -14,3 +14,10 @@
 .textarea{
     height: 8rem;
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .contacto__contenedor--formulario{
+        width: 40%;
+    }
+}

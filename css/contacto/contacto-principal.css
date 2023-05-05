@@ -34,3 +34,13 @@
     width: 18rem;
     margin-top: 1rem;
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .contacto__contenedor--informacion{
+        display: flex;
+    }
+    .contacto__contenedor--principal{
+        width: 50%;
+    }
+}
