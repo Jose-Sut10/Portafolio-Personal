@@ -27,6 +27,7 @@
 }
 
 .contenedor__nota--informacion{
+    text-align: justify;
     margin-top: 0.5rem;
     font-size: 1.6rem;
     font-family: var(--letra-contenidos);
