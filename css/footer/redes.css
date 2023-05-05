@@ -1,3 +1,10 @@
 .pie__pagina--redes{
     display: none; 
 }
+
+/*Diseño desktop*/
+@media screen and (min-width: 1024px){
+    .pie__pagina--redes{
+        display: flex;
+    }
+}
